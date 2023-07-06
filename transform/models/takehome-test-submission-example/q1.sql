@@ -9,3 +9,6 @@ WITH customers AS {
       customer_id,
       ...
 }
+
+SELECT *
+FROM customers
